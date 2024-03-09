@@ -1,1 +1,1 @@
-This Repo provide info about how to use envornment vaiables in go application.
+This Repo provides info about how to use environment variables in the go application.
