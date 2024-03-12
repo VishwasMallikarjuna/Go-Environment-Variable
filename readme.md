@@ -1,4 +1,8 @@
-This Repo provides info about how to use environment variables in the go application.
+# Using Environment Variables in Go Applications
 
-In Go, you can use environment variables to configure your application dynamically without hardcoding values. Here's how you can use environment variables in a Go application:
+This repository provides information on how to use environment variables in Go applications.
+
+In Go, you can utilize environment variables to dynamically configure your application without hardcoding values. Here's how you can use environment variables in a Go application:
+
+```bash
 export DATABASE_URL="user:password@tcp(localhost:3306)/dbname"
