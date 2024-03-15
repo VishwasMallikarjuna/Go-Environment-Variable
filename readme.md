@@ -7,4 +7,7 @@ In Go, you can utilize environment variables to dynamically configure your appli
 ```bash
 export DATABASE_URL="user:password@tcp(localhost:3306)/dbname"
 
-in following code main.go is an example.
+```
+Command for displaying value
+echo $DATABASE_URL
+
