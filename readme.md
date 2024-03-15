@@ -8,6 +8,6 @@ In Go, you can utilize environment variables to dynamically configure your appli
 export DATABASE_URL="user:password@tcp(localhost:3306)/dbname"
 
 ```
-Command for displaying value
+The command for displaying the value:
 echo $DATABASE_URL
 
