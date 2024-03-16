@@ -9,5 +9,6 @@ export DATABASE_URL="user:password@tcp(localhost:3306)/dbname"
 
 ```
 The command for displaying the value:
+```bash
 echo $DATABASE_URL
-
+```
