@@ -12,3 +12,4 @@ The command for displaying the value:
 ```bash
 echo $DATABASE_URL
 ```
+Output is user:password@tcp(localhost:3306)/dbname
